@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - platformer
 post: https://web.archive.org/web/20210101000000*/saud.gq/blog/fourfold
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
